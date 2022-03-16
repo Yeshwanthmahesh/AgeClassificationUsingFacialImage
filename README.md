@@ -49,11 +49,11 @@ This application deals with providing security to children (aged under 18) to no
 5.	Streaming applications like Twitch need to have the age verified from the user before access.
 
 Demo of Android App in use:
-![Screenshot](Img Classification demo.png)
-![Screenshot](Img Classification demo2.png)
-
-Demo of Background process:
 ![Screenshot](Appdemo.jpg)
 ![Screenshot](Appdemo2.jpg)
+
+Demo of Background process:
+![Screenshot](Imgdemo.png)
+![Screenshot](Imgdemo2.png)
 
 
