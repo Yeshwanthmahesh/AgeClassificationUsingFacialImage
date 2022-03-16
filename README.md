@@ -53,6 +53,8 @@ Demo of Android App in use:
 ![Screenshot](Appdemo2.jpg)
 
 Demo of Background process:
+
+
 ![Screenshot](Imgdemo.png)
 ![Screenshot](Imgdemo2.png)
 
